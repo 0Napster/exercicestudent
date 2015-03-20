@@ -3,7 +3,7 @@
 @section('content')
     <div class="jumbotron">
         <h1>Bienvenue sur le site des etudiants</h1>
-        <p>blablabala</p>
+        <p>blabl</p>
     </div>
     @if(isset($students))
         @foreach($students as $stud)
